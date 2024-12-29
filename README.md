@@ -1,0 +1,6 @@
+# 【毕设】jsp1017银行柜员业务绩效考核mysql毕业设计
+
+免费安装<br>技术实现开发语言:example.com:jsp+example.com:B/example.com:example.com:myeclipse eclipse example.com:1万左右.<br>功能实现系统功能模块：<br>example.com：管理员与普通柜员，管理员进入的是管理员页面，普通柜员进入普通柜员的界面。<br>example.com<br>普通柜员用户注册：普通柜员通过输入用户名（工号即用户名），名字，密码进行注册，获得进入本系统权限。<br>柜员选择柜员身份登入：柜员进入后可以查看本人工作情况的信息。<br>管理员界面：登入后，记录柜员工作情况：输入柜员工号，柜员名字，记录业务笔数，一栏并记录柜员员工加减分情况（笔数处于10的整数部分为加减分情况，以10分为上限）。除此之外，管理员还能对普通柜员的权限进行修改，删除不必要的用户。<br>对管理员输入数据进行处理：比如工号只能为7位，开头必须是882；加分减分的值不能大于10等等。<br>example.com<br>查询：输入柜员工号，可以查询到该柜员的工作情况以及加分减分情况及薪酬情况；按日期查询，可以查询到该日期本合作银行每位柜员的工作情况及加减分情况。<br>薪酬查询：柜员薪酬计算应计算考核薪酬除以10分为标准分值，考核实际得分乘以分值为可兑现年薪（总行班子成员18000元/季、中层正职12024元/季、中层副职9000元/季、员工6000元/季、短期合同工（三年以下）1500元/季。） 月总分/月天数/10*薪酬标准<br>example.com：比如可以统计本合作银行业务笔数由多到少排名，加减分情况排名。<br>example.com：对系统进行维护，定期对数据进行备份，对历史数据库进行备份，对密码口令进行维护。<br>系统截图 <br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/c6kbI" style="color: red;">https://mega-file.org/c6kbI</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
